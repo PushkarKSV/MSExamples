@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>convert-currency</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>convert-currency</name>
-	<description>Convert Currency project for Spring Boot</description>
+	<artifactId>currency-conversion-factor</artifactId>
+	<version>1</version>
+	<name>currency-conversion-factor</name>
+	<description>currency-conversion-factor project for Spring Boot</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
